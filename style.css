@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://i.postimg.cc/QC8gSKZR/pexels-miguel-padri-n-19670.jpg);
+     background-size: cover;
+}
+
+
+.dav{
+    overflow:hidden;
+    padding: 20px;
+    background-color: rgba(8, 6, 6, 0.68);
+}
+           .dav a:active{
+            background-color: rgb(5, 5, 5);
+            color:rgb(237, 240, 239);
+           }
+               
+            .dav a:hover{
+                background-color: rgba(249, 250, 249, 0.573);
+                color:rgb(7, 6, 6);
+            }
+               
+                .dav a{
+                    padding: 20px;
+                    color:rgb(245, 245, 245);
+                    background-color:black;
+                    font-size: 20px;
+                }
+
+                .dal{
+                    overflow: hidden;
+                    padding: 20px;
+                    background-color: rgba(8, 6, 6, 0.68) ;
+                }
+                  
+                    .dal a:active{
+                        background-color: rgb(5, 5, 5);
+                        color:rgb(237, 240, 239);
+                    }
+
+                        .dal a:hover{
+                            background-color: rgba(249, 250, 249, 0.573);
+                             color:rgb(7, 6, 6);
+                        }
+
+                                    .dal a{
+                                        padding: 20px;
+                                        color:rgb(245, 245, 245);
+                                        background-color:black;
+                                        font-size: 20px;
+                                    }
+    
